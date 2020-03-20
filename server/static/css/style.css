@@ -11,6 +11,10 @@
     margin-top: -65px;
 }
 
+.social-icons > a:hover {
+    text-decoration: none;
+}
+
 .social-icons > a > img {
     width: 60px;
     padding: 7px;
