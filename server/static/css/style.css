@@ -1,0 +1,17 @@
+.main-logo {
+    text-align: center;
+}
+
+.main-logo > img {
+    max-width: 600px;
+}
+
+.social-icons {
+    text-align: center;
+    margin-top: -65px;
+}
+
+.social-icons > a > img {
+    width: 60px;
+    padding: 7px;
+}
